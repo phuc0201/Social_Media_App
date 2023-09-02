@@ -6,31 +6,31 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="23"
-8-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml
+8-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="33" />
-9-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml
+9-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:5:5-67
-11-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:5:22-64
+11-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:5:5-67
+11-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:6:5-79
-12-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:6:22-76
+12-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:6:5-79
+12-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:6:22-76
 13    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES" />
-13-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:7:5-76
-13-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:7:22-73
+13-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:7:5-76
+13-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:7:22-73
 14    <uses-permission android:name="android.permission.READ_MEDIA_AUDIO" />
-14-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:8:5-75
-14-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:8:22-72
+14-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:8:5-75
+14-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:8:22-72
 15    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO" />
-15-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:9:5-75
-15-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:9:22-72
+15-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:9:5-75
+15-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:9:22-72
 16    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-16-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:10:5-80
-16-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:10:22-77
+16-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:10:5-80
+16-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:10:22-77
 17    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-17-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:11:5-13:40
-17-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:12:9-65
+17-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:11:5-13:40
+17-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:12:9-65
 18
 19    <permission
 19-->[androidx.core:core:1.9.0] C:\Users\hoang\.gradle\caches\transforms-3\07d4369a3fef3d80e84a80c7696cee4b\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
@@ -44,71 +44,71 @@
 23-->[androidx.core:core:1.9.0] C:\Users\hoang\.gradle\caches\transforms-3\07d4369a3fef3d80e84a80c7696cee4b\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
 24
 25    <application
-25-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:15:5-48:19
+25-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:15:5-48:19
 26        android:name="com.socialmediaapp.DI.HiltApplication"
-26-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:16:9-43
+26-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:16:9-43
 27        android:allowBackup="true"
-27-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:17:9-35
+27-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:17:9-35
 28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 28-->[androidx.core:core:1.9.0] C:\Users\hoang\.gradle\caches\transforms-3\07d4369a3fef3d80e84a80c7696cee4b\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 29        android:dataExtractionRules="@xml/data_extraction_rules"
-29-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:18:9-65
+29-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:18:9-65
 30        android:debuggable="true"
 31        android:extractNativeLibs="false"
 32        android:fullBackupContent="@xml/backup_rules"
-32-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:19:9-54
+32-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:19:9-54
 33        android:icon="@mipmap/ic_launcher"
-33-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:20:9-43
+33-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:20:9-43
 34        android:label="@string/app_name"
-34-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:21:9-41
+34-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:21:9-41
 35        android:networkSecurityConfig="@xml/network_security_config"
-35-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:22:9-69
+35-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:22:9-69
 36        android:requestLegacyExternalStorage="true"
-36-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:23:9-52
+36-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:23:9-52
 37        android:supportsRtl="true"
-37-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:24:9-35
+37-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:24:9-35
 38        android:testOnly="true"
 39        android:theme="@style/Theme.SocialMediaApp" >
-39-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:25:9-52
+39-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:25:9-52
 40        <activity
-40-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:27:9-29:40
+40-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:27:9-29:40
 41            android:name="com.socialmediaapp.View.Activity.DetailsActivity"
-41-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:28:13-58
+41-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:28:13-58
 42            android:exported="false" />
-42-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:29:13-37
+42-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:29:13-37
 43        <activity
-43-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:30:9-32:40
+43-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:30:9-32:40
 44            android:name="com.socialmediaapp.View.Activity.CommentActivity"
-44-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:31:13-58
+44-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:31:13-58
 45            android:exported="false" />
-45-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:32:13-37
+45-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:32:13-37
 46        <activity
-46-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:33:9-35:40
+46-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:33:9-35:40
 47            android:name="com.socialmediaapp.View.Activity.ChatActivity"
-47-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:34:13-55
+47-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:34:13-55
 48            android:exported="false" />
-48-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:35:13-37
+48-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:35:13-37
 49        <activity
-49-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:36:9-38:40
+49-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:36:9-38:40
 50            android:name="com.socialmediaapp.View.Activity.MainActivity"
-50-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:37:13-55
+50-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:37:13-55
 51            android:exported="false" /> <!-- <activity -->
-51-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:38:13-37
+51-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:38:13-37
 52        <activity
-52-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:39:9-47:20
+52-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:39:9-47:20
 53            android:name="com.socialmediaapp.View.Activity.LoginActivity"
-53-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:40:13-56
+53-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:40:13-56
 54            android:exported="true" >
-54-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:41:13-36
+54-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:41:13-36
 55            <intent-filter>
-55-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:42:13-46:29
+55-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:42:13-46:29
 56                <action android:name="android.intent.action.MAIN" />
-56-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:43:17-69
-56-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:43:25-66
+56-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:43:17-69
+56-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:43:25-66
 57
 58                <category android:name="android.intent.category.LAUNCHER" />
-58-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:45:17-77
-58-->D:\MobileApp\SocialMediaApp\app\src\main\AndroidManifest.xml:45:27-74
+58-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:45:17-77
+58-->D:\MobileApp\Social_Media_App\app\src\main\AndroidManifest.xml:45:27-74
 59            </intent-filter>
 60        </activity>
 61
