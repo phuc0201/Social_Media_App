@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_icon_message_regular.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/icon_message_regular.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/layout_item_notification.xml.flat",
+        "source": "com.socialmediaapp-main-36:/layout/item_notification.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.socialmediaapp-main-36:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_icon_heart_regular.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/icon_heart_regular.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_baseline_send_24.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/baseline_send_24.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.socialmediaapp-main-36:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/xml_network_security_config.xml.flat",
+        "source": "com.socialmediaapp-main-36:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/layout_fragment_feed.xml.flat",
+        "source": "com.socialmediaapp-main-36:/layout/fragment_feed.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.socialmediaapp-pngs-29:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/layout_message_other.xml.flat",
+        "source": "com.socialmediaapp-main-36:/layout/message_other.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_ic_share.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/ic_share.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_ic_favorite_heart.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/ic_favorite_heart.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_textview_rounded_corner.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/textview_rounded_corner.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/layout_message.xml.flat",
+        "source": "com.socialmediaapp-main-36:/layout/message.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/layout_fragment_user_profile.xml.flat",
+        "source": "com.socialmediaapp-main-36:/layout/fragment_user_profile.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_custom_edittext.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/custom_edittext.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_ic_heart.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/ic_heart.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_baseline_add_circle_outline_24.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/baseline_add_circle_outline_24.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.socialmediaapp-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.socialmediaapp-main-36:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/layout_activity_main.xml.flat",
+        "source": "com.socialmediaapp-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.socialmediaapp-main-36:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/layout_activity_details.xml.flat",
+        "source": "com.socialmediaapp-main-36:/layout/activity_details.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_applogo.png.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/applogo.png"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.socialmediaapp-main-36:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_ic_comment.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/ic_comment.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_baseline_public_24.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/baseline_public_24.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.socialmediaapp-main-36:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_baseline_arrow_back_24.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_icon_image.png.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/icon_image.png"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/layout_comment_item.xml.flat",
+        "source": "com.socialmediaapp-main-36:/layout/comment_item.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/layout_fragment_setting.xml.flat",
+        "source": "com.socialmediaapp-main-36:/layout/fragment_setting.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_custom_chat.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/custom_chat.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/layout_activity_comment.xml.flat",
+        "source": "com.socialmediaapp-main-36:/layout/activity_comment.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_ic_checkmark_white.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/ic_checkmark_white.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_ic_photo.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/ic_photo.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/layout_contact_item.xml.flat",
+        "source": "com.socialmediaapp-main-36:/layout/contact_item.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/layout_fragment_notification.xml.flat",
+        "source": "com.socialmediaapp-main-36:/layout/fragment_notification.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_baseline_image_24.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/baseline_image_24.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_bg_cirecle_green.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/bg_cirecle_green.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/xml_data_extraction_rules.xml.flat",
+        "source": "com.socialmediaapp-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.socialmediaapp-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.socialmediaapp-main-36:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_user_avt.jpg.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/user_avt.jpg"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_bg_button_gray.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/bg_button_gray.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_baseline_person_24.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/baseline_person_24.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_baseline_notifications_24.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/baseline_notifications_24.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_bg_button.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/bg_button.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/color_color_navigation.xml.flat",
+        "source": "com.socialmediaapp-main-36:/color/color_navigation.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/menu_menu_navigation.xml.flat",
+        "source": "com.socialmediaapp-main-36:/menu/menu_navigation.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_ic_cancel.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/ic_cancel.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/layout_activity_login.xml.flat",
+        "source": "com.socialmediaapp-main-36:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_ic_chat.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/ic_chat.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_ic_edit.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/ic_edit.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_ic_add.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/layout_user_post.xml.flat",
+        "source": "com.socialmediaapp-main-36:/layout/user_post.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_ic_placeholder.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/ic_placeholder.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/layout_fragment_contact.xml.flat",
+        "source": "com.socialmediaapp-main-36:/layout/fragment_contact.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/layout_activity_chat.xml.flat",
+        "source": "com.socialmediaapp-main-36:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/layout_item_find_user.xml.flat",
+        "source": "com.socialmediaapp-main-36:/layout/item_find_user.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_baseline_camera_alt_24.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/baseline_camera_alt_24.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_baseline_email_24.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/baseline_email_24.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_baseline_group_add_24.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/baseline_group_add_24.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_ic_add_mini.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/ic_add_mini.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_bg__search.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/bg__search.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/layout_fragment_new_post.xml.flat",
+        "source": "com.socialmediaapp-main-36:/layout/fragment_new_post.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/xml_backup_rules.xml.flat",
+        "source": "com.socialmediaapp-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_icon_send_message.png.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/icon_send_message.png"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.socialmediaapp-main-36:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.socialmediaapp-main-36:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_baseline_chat_24.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/baseline_chat_24.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/layout_app_bar.xml.flat",
+        "source": "com.socialmediaapp-main-36:/layout/app_bar.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_messenger.png.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/messenger.png"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_custom_search_view.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/custom_search_view.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.socialmediaapp-main-36:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/layout_activity_register.xml.flat",
+        "source": "com.socialmediaapp-main-36:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.socialmediaapp-main-36:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_baseline_home_24.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/baseline_home_24.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/layout_fragment_addfriend.xml.flat",
+        "source": "com.socialmediaapp-main-36:/layout/fragment_addfriend.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_ic_video_camera.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/ic_video_camera.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_baseline_date_range_24.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/baseline_date_range_24.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_baseline_lock_24.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/baseline_lock_24.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-merged_res-34:/drawable_ic_search.xml.flat",
+        "source": "com.socialmediaapp-main-36:/drawable/ic_search.xml"
+    }
+]

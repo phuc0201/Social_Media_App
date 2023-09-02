@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.socialmediaapp-mergeDebugResources-33:/layout/app_bar.xml",
+        "source": "com.socialmediaapp-main-36:/layout/app_bar.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-mergeDebugResources-33:/layout/fragment_feed.xml",
+        "source": "com.socialmediaapp-main-36:/layout/fragment_feed.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-mergeDebugResources-33:/layout/item_notification.xml",
+        "source": "com.socialmediaapp-main-36:/layout/item_notification.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-mergeDebugResources-33:/layout/activity_chat.xml",
+        "source": "com.socialmediaapp-main-36:/layout/activity_chat.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-mergeDebugResources-33:/layout/fragment_addfriend.xml",
+        "source": "com.socialmediaapp-main-36:/layout/fragment_addfriend.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-mergeDebugResources-33:/layout/fragment_contact.xml",
+        "source": "com.socialmediaapp-main-36:/layout/fragment_contact.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-mergeDebugResources-33:/layout/message.xml",
+        "source": "com.socialmediaapp-main-36:/layout/message.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-mergeDebugResources-33:/layout/activity_register.xml",
+        "source": "com.socialmediaapp-main-36:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-mergeDebugResources-33:/layout/activity_login.xml",
+        "source": "com.socialmediaapp-main-36:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-mergeDebugResources-33:/layout/message_other.xml",
+        "source": "com.socialmediaapp-main-36:/layout/message_other.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-mergeDebugResources-33:/layout/comment_item.xml",
+        "source": "com.socialmediaapp-main-36:/layout/comment_item.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-mergeDebugResources-33:/layout/activity_comment.xml",
+        "source": "com.socialmediaapp-main-36:/layout/activity_comment.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-mergeDebugResources-33:/layout/item_find_user.xml",
+        "source": "com.socialmediaapp-main-36:/layout/item_find_user.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-mergeDebugResources-33:/layout/activity_details.xml",
+        "source": "com.socialmediaapp-main-36:/layout/activity_details.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-mergeDebugResources-33:/layout/contact_item.xml",
+        "source": "com.socialmediaapp-main-36:/layout/contact_item.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-mergeDebugResources-33:/layout/fragment_user_profile.xml",
+        "source": "com.socialmediaapp-main-36:/layout/fragment_user_profile.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "com.socialmediaapp-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-mergeDebugResources-33:/layout/fragment_notification.xml",
+        "source": "com.socialmediaapp-main-36:/layout/fragment_notification.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-mergeDebugResources-33:/layout/user_post.xml",
+        "source": "com.socialmediaapp-main-36:/layout/user_post.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-mergeDebugResources-33:/layout/fragment_setting.xml",
+        "source": "com.socialmediaapp-main-36:/layout/fragment_setting.xml"
+    },
+    {
+        "merged": "com.socialmediaapp-mergeDebugResources-33:/layout/fragment_new_post.xml",
+        "source": "com.socialmediaapp-main-36:/layout/fragment_new_post.xml"
+    }
+]
